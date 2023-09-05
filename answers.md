@@ -21,4 +21,9 @@
 9. on branch main
     Your branch is up to date with 'origin/main'.
     nothing to commit, working tree clean
-10.
+10. changes were not reflected
+11. error due to changes not made locally
+12. changes are now reflected
+13. list of all directories
+
+
